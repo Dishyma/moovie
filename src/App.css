@@ -19,6 +19,7 @@ body {
     padding: 15px;
     text-transform: uppercase;
 }
+
 .poster {
     background-size: cover;
     background-position: top center;
@@ -82,6 +83,7 @@ h1 {
     top: 0;
     bottom: 0;
 }
+
 .brand {
     font-weight: bold;
 }
