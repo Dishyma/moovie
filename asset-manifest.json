@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/moovie/static/css/main.4ba1f987.chunk.css",
+    "main.js": "/moovie/static/js/main.0d603ce3.chunk.js",
+    "main.js.map": "/moovie/static/js/main.0d603ce3.chunk.js.map",
+    "runtime-main.js": "/moovie/static/js/runtime-main.f479c9ad.js",
+    "runtime-main.js.map": "/moovie/static/js/runtime-main.f479c9ad.js.map",
+    "static/js/2.2ab74ef4.chunk.js": "/moovie/static/js/2.2ab74ef4.chunk.js",
+    "static/js/2.2ab74ef4.chunk.js.map": "/moovie/static/js/2.2ab74ef4.chunk.js.map",
+    "index.html": "/moovie/index.html",
+    "static/css/main.4ba1f987.chunk.css.map": "/moovie/static/css/main.4ba1f987.chunk.css.map",
+    "static/js/2.2ab74ef4.chunk.js.LICENSE.txt": "/moovie/static/js/2.2ab74ef4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f479c9ad.js",
+    "static/js/2.2ab74ef4.chunk.js",
+    "static/css/main.4ba1f987.chunk.css",
+    "static/js/main.0d603ce3.chunk.js"
+  ]
+}
